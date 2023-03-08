@@ -1,0 +1,86 @@
+itemid,LEVEL2,LEVEL1
+220644,Alanine aminotransferase,Alanine aminotransferase
+227456,Albumin,Albumin
+225612,Alkaline phosphate,Alkaline phosphate
+227073,Anion gap,Anion gap
+220587,Asparate aminotransferase,Asparate aminotransferase
+227443,Bicarbonate,Bicarbonate (serum)
+225651,Bilirubin_direct,Bilirubin (conjugated)
+225690,Bilirubin,Bilirubin (total)
+225624,Blood urea nitrogen,Blood urea nitrogen
+225667,Calcium ionized,Calcium ionized
+220602,Chloride,Chloride (serum)
+226536,Chloride,Chloride (whole blood)
+220603,Cholesterol,Cholesterol
+220615,Creatinine,Creatinine
+224643,Diastolic blood pressure,Diastolic blood pressure (noninvasive)
+220545,Hematocrit,Hematocrit (serum)
+220228,Hemoglobin,Hemoglobin
+225668,Lactic acid,Lactic acid
+220635,Magnesium,Magnesium
+224322,Mean blood pressure,Mean blood pressure (arterial)
+220227,Oxygen saturation,Oxygen saturation (arterial)
+226062,Partial pressure of carbon dioxide,Partial pressure of carbon dioxide
+220235,Partial pressure of carbon dioxide,Partial pressure of carbon dioxide (arterial)
+224695,Peak inspiratory pressure,Peak inspiratory pressure
+223830,pH,pH (arterial)
+220274,pH,pH (venous)
+227457,Platelets,Platelets
+224700,Positive end-expiratory pressure,Positive end-expiratory pressure (total)
+220339,Positive end-expiratory pressure Set,Positive end-expiratory pressure Set
+227464,Potassium,Potassium (whole blood)
+227442,Potassium serum,Potassium (serum)
+227467,Prothrombin time INR,Prothrombin time
+227465,Prothrombin time PT,Prothrombin time
+224689,Respiratory rate,Respiratory rate (spontaneous)
+224422,Respiratory rate,Respiratory rate (spontaneous)
+220645,Sodium,Sodium (serum)
+226534,Sodium,Sodium (whole blood)
+224167,Systolic blood pressure,Systolic blood pressure (noninvasive)
+227243,Systolic blood pressure,Systolic blood pressure (noninvasive)
+220546,White blood cell count,White blood cell count
+220074,Central Venous Pressure,Central Venous Pressure
+225677,Phosphorous,Phosphorous
+227468,Fibrinogen,Fibrinogen
+224696,Plateau Pressure,Plateau Pressure
+224685,Tidal Volume Observed,Tidal Volume Observed
+226627,Urine output,Urine output
+50835,Albumin ascites,Albumin (ascites)
+51046,Albumin pleural,Albumin (pleural)
+51069,Albumin urine,Albumin (urine)
+51006,Blood urea nitrogen,Blood urea nitrogen
+51077,Calcium urine,Calcium (urine)
+51078,Chloride urine,Chloride (urine)
+50907,Cholesterol,Cholesterol (total)
+50904,Cholesterol HDL,Cholesterol (HDL)
+50905,Cholesterol LDL,Cholesterol (LDL)
+50841,Creatinine ascites,Creatinine (ascites)
+51032,Creatinine body fluid,Creatinine (body fluid)
+51052,Creatinine pleural,Creatinine (pleural)
+51082,Creatinine urine,Creatinine (urine)
+51444,Eosinophils,Eosinophils
+51347,Eosinophils,Eosinophils
+51419,Eosinophils,Eosinophils
+51114,Eosinophils,Eosinophils
+51054,Lactate dehydrogenase pleural,Lactate dehydrogenase
+51116,Lymphocytes ascites,Lymphocytes
+51446,Lymphocytes pleural,Lymphocytes
+51427,Lymphocytes body fluid,Lymphocytes
+51375,Lymphocytes body fluid,Lymphocytes
+51343,Lymphocytes atypical CSL,Lymphocytes (atypical)
+51245,Lymphocytes percent,Lymphocytes (percent)
+50960,Magnesium,Magnesium
+51355,Monocytes CSL,Monocytes
+50831,pH,pH
+51491,pH urine,pH
+51094,pH urine,pH
+50970,Phosphate,Phosphate
+50819,Positive end-expiratory pressure,Positive end-expiratory pressure
+51493,Red blood cell count urine,Red blood cell count
+51127,Red blood cell count ascites,Red blood cell count (ascites)
+51362,Red blood cell count CSF,Red blood cell count (CSF)
+51457,Red blood cell count pleural,Red blood cell count (pleural)
+51002,Troponin-I,Troponin-I
+51516,White blood cell count urine,White blood cell count
+51102,Total Protein Urine,Total Protein Urine
+50826,Tidal Volume Observed,Tidal Volume Observed
