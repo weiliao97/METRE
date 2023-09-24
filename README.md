@@ -1,5 +1,7 @@
 # METRE
-A **M**ultidatabase **E**x**TR**action Pip**E**line (METRE) 
+This is the code repo for the paper: *Liao, Wei, and Joel Voldman. "A Multidatabase ExTRaction PipEline (METRE) for facile cross validation in critical care research." _Journal of Biomedical Informatics_ 141 (2023): 104356.* 
+
+![Schematic](./images/Schematic_pipeline.jpg)
 
 ## 1. Prerequisites 
 1).  Both database are hosted on Google Cloud and in order to have access, you can follow the instructions in the following links:  [MIMIV IV](https://physionet.org/content/mimiciv/2.2/) and [eICU](https://eicu-crd.mit.edu/about/eicu/)
@@ -96,3 +98,8 @@ In order to train the TCN model (channel dimenstions [256, 256, 256, 256]), on h
 To run a LSTM model for the 12h ARF task, run 
 
     python main.py --dataset_path xxx --dataset_path_cv xx --model_name RNN --thresh 12 --target_index 1
+
+## 5. Results on in-hospital mortality prediction 
+
+![Results](./images/results.jpg)
+
