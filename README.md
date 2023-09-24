@@ -99,7 +99,7 @@ To run a LSTM model for the 12h ARF task, run
 
     python main.py --dataset_path xxx --dataset_path_cv xx --model_name RNN --thresh 12 --target_index 1
 
-## 5. Results on in-hospital mortality prediction 
+## 5. AUC results on in-hospital mortality prediction using 48h of EHR data
 
 ![Results](./images/results.jpg)
 
